@@ -1,16 +1,19 @@
-### Olá todos, eu sou o Manoel Carvalho - TheNeoCarvalho [TheNeoCarvalho][github] 👋
+## Olá todos, eu sou o Manoel Carvalho - [manolocarvalho][github] 👋
 
-<img align="left" alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true" />
+<img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manolocarvalho&show_icons=true&hide_border=true&theme=dark" />
 
-<p>
+<br />
 
+### Sobre mim...
+- ⚡ Sou marido, pai, professor e programador nas horas vagas!
 - 🔭 Atualmente, estudando bastante!
 - 🌱 Sempre aprendendo novas tecnologias 🤣
 - 👯 Tentando produzir algum conteúdo legal!
 - 🥅 Em 2020: pretendo contribuir mais para a comunidade Open Source!
 - ⚡ Gosto praticamente de tudo!
+<br />
 
-### Como me achar:
+### Redes Sociais
 
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -50,9 +53,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
 
 [github]: https://github.com/manolocarvalho
 [twitter]: https://twitter.com/neo_carvalho
