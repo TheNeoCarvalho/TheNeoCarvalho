@@ -2,14 +2,12 @@
 
 <img align="left" alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true" />
 
-<br/>
+<p>
 
-## Sou marido, pai, professor e programador no tempo livre!
-
-- 🔭 Atualmente estudando bastante!
-- 🌱 Sempre aprendendo 🤣
+- 🔭 Atualmente, estudando bastante!
+- 🌱 Sempre aprendendo novas tecnologias 🤣
 - 👯 Tentando produzir algum conteúdo legal!
-- 🥅 Em 2020: pretendo contribuir mais para o Open Source!
+- 🥅 Em 2020: pretendo contribuir mais para a comunidade Open Source!
 - ⚡ Gosto praticamente de tudo!
 
 ### Como me achar:
@@ -56,7 +54,7 @@
 <br />
 <br />
 
-[github]: https://github.com/TheNeoCarvalho
+[github]: https://github.com/manolocarvalho
 [twitter]: https://twitter.com/neo_carvalho
 [youtube]: https://youtube.com/c/manoelcarvalho
 [instagram]: https://instagram.com/manolocarvalho
