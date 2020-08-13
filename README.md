@@ -1,4 +1,4 @@
-## Olá todos, eu sou o Manoel Carvalho - [manolocarvalho][github] 👋
+## Olá todos, eu sou o Manoel Carvalho - [TheNeoCarvalho][github] 👋
 
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manolocarvalho&show_icons=true&hide_border=true&theme=dark" />
 
@@ -54,7 +54,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[github]: https://github.com/manolocarvalho
+[github]: https://github.com/TheNeoCarvalho
 [twitter]: https://twitter.com/neo_carvalho
 [youtube]: https://youtube.com/c/manoelcarvalho
 [instagram]: https://instagram.com/manolocarvalho
