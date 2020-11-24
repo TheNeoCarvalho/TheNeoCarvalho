@@ -59,5 +59,5 @@
 [twitter]: https://twitter.com/neo_carvalho
 [youtube]: https://youtube.com/c/manoelcarvalho
 [instagram]: https://instagram.com/manolocarvalho
-[linkedin]: https://linkedin.com/in/francisco-manoel-carvalho
-[site]: https://manolodev.netlify.app
+[linkedin]: https://linkedin.com/in/franciscomanoelcarvalho
+[site]: https://manolodev.tech
