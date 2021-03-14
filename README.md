@@ -1,6 +1,8 @@
 ## Olá todos, eu sou o Manoel Carvalho - [TheNeoCarvalho][github] 👋
-
+<p>Dados do Github</p>
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
+
+<p>Minhas linguagens mais usadas.</p>
 <img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
 
 <br />
