@@ -7,6 +7,10 @@
 
 <br />
 
+[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ### Sobre mim...
 - ⚡ Sou marido, pai, professor e programador nas horas vagas!
 - 🔭 Atualmente, estudando bastante!
@@ -57,8 +61,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/TheNeoCarvalho
 [twitter]: https://twitter.com/neo_carvalho
