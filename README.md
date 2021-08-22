@@ -58,6 +58,8 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
 [github]: https://github.com/TheNeoCarvalho
 [twitter]: https://twitter.com/neo_carvalho
 [youtube]: https://youtube.com/c/manoelcarvalho
