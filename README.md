@@ -1,4 +1,14 @@
 ## Olá todos, eu sou o Manoel Carvalho - [TheNeoCarvalho][github] 👋
+
+### Sobre mim...
+- ⚡ Sou marido, pai, professor e programador nas horas vagas!
+- 🔭 Atualmente, estudando bastante!
+- 🌱 Sempre aprendendo novas tecnologias 🤣
+- 👯 Tentando produzir algum conteúdo legal!
+- 🥅 Em 2020: pretendo contribuir mais para a comunidade Open Source!
+
+<br />
+
 ### Dados do Github
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
 
@@ -10,15 +20,6 @@
 ### Total de contribuições
 [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-
-### Sobre mim...
-- ⚡ Sou marido, pai, professor e programador nas horas vagas!
-- 🔭 Atualmente, estudando bastante!
-- 🌱 Sempre aprendendo novas tecnologias 🤣
-- 👯 Tentando produzir algum conteúdo legal!
-- 🥅 Em 2020: pretendo contribuir mais para a comunidade Open Source!
-- ⚡ Gosto praticamente de tudo!
 <br />
 
 ### Redes Sociais
