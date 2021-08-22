@@ -5,7 +5,7 @@
 - 🔭 Atualmente, estudando bastante!
 - 🌱 Sempre aprendendo novas tecnologias 🤣
 - 👯 Tentando produzir algum conteúdo legal!
-- 🥅 Em 2020: pretendo contribuir mais para a comunidade Open Source!
+- 🥅 Em 2021: pretendo contribuir mais para a comunidade Open Source!
 
 <br />
 
