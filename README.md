@@ -1,9 +1,5 @@
 ## Olá todos, eu sou o Manoel Carvalho - [TheNeoCarvalho][github] 👋
 
-
-<table border="0">
-  <tr>   
-    <td>
 ### Sobre mim...
 - ⚡ Sou marido, pai, professor e programador nas horas vagas!
 - 🔭 Atualmente, estudando bastante!
@@ -11,16 +7,8 @@
 - 👯 Tentando produzir algum conteúdo legal!
 - 🥅 Em 2021: pretendo contribuir mais para a comunidade Open Source!
 
-    </td>
-    <td>
-     ### Dados do Github
-     ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
-    </td>
-  </tr>
-</table>
-
-
-
+ ### Dados do Github
+ ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
 
 <table border="0">
   <tr>   
