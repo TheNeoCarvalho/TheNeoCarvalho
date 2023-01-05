@@ -75,3 +75,6 @@
 [instagram]: https://instagram.com/manolocarvalho
 [linkedin]: https://linkedin.com/in/franciscomanoelcarvalho
 [site]: https://manolodev.tech
+
+<br />
+![Snake animation](https://github.com/theneocarvalho/theneocarvalho/blob/output/github-contribution-grid-snake.svg)
