@@ -9,7 +9,7 @@
 
 <br />
 
-![coding]([https://media.tenor.com/BqbIhT4Mb7cAAAAC/programmer-rounded-edges.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif))
+![coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 <br />
 
