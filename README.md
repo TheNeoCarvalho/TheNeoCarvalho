@@ -22,6 +22,7 @@
 
 <br />
 
+### Visualizações
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
 
 <br />
