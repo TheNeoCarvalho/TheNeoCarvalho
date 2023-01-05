@@ -9,6 +9,10 @@
 
 <br />
 
+![mario coding]([https://i.imgur.com/1ZvVkDc.gif](https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA))
+
+<br />
+
 ### Dados do Github
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
 
