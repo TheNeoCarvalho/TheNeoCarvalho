@@ -25,8 +25,6 @@
 ### Visualizações
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
 
-<br />
-
 ### Redes Sociais
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
