@@ -64,8 +64,9 @@
 
 
 <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviaquino87&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
+</div>
 
 <br />
 [github]: https://github.com/TheNeoCarvalho
