@@ -9,15 +9,15 @@
 
  ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
 
-<table border="0">
+<table>
   <tr>   
     <td>
-Dados do Github
-<img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
+     Dados do Github
+     <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
     </td>
     <td>
-Linguagens mais usadas
-<img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
+     Linguagens mais usadas
+     <img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
     </td>
   </tr>
 </table>
