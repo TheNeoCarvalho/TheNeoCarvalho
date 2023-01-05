@@ -62,13 +62,6 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-<br />
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
-</div>
-
-<br />
 [github]: https://github.com/TheNeoCarvalho
 [twitter]: https://twitter.com/neo_carvalho
 [youtube]: https://youtube.com/c/manoelcarvalho
