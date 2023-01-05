@@ -12,11 +12,11 @@
 <table border="0">
   <tr>   
     <td>
-     [### Dados do Github]
+### Dados do Github
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
     </td>
     <td>
-      ### Linguagens mais usadas
+### Linguagens mais usadas
 <img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
     </td>
   </tr>
