@@ -8,8 +8,9 @@
 - 🥅 Em 2021: pretendo contribuir mais para a comunidade Open Source!
 
 <br />
-
+<div height="100%">
 ![coding](https://media.tenor.com/zn8iyusePtgAAAAd/joy.gif)
+</div>
 
 <br />
 
