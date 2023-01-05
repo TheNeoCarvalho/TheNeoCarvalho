@@ -7,11 +7,8 @@
 - 👯 Tentando produzir algum conteúdo legal!
 - 🥅 Em 2021: pretendo contribuir mais para a comunidade Open Source!
 
-<br />
-<div width="300px">
 ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
-</div>
-<br />
+
 
 ### Dados do Github
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
@@ -19,12 +16,8 @@
 ### Linguagens mais usadas
 <img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
 
-<br />
-
 ### Total de contribuições
 [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 ### Visualizações
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
