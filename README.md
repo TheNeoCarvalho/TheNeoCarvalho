@@ -9,12 +9,22 @@
 
 ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
 
-
-### Dados do Github
+<table>
+  <tr>   
+    <td>
+     ### Dados do Github
 <img alt="TheNeoCarvalho's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&hide_border=true&theme=dark" />
-
-### Linguagens mais usadas
+    </td>
+    <td>
+      ### Linguagens mais usadas
 <img alt="TheNeoCarvalho" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneocarvalho&layout=compact&theme=dark&title_color=268bd2" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### Total de contribuições
 [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
