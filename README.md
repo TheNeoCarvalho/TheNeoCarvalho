@@ -4,7 +4,6 @@
 <table border="0">
   <tr>   
     <td>
-     ### Dados do Github
 ### Sobre mim...
 - ⚡ Sou marido, pai, professor e programador nas horas vagas!
 - 🔭 Atualmente, estudando bastante!
@@ -14,6 +13,7 @@
 
     </td>
     <td>
+     ### Dados do Github
      ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
     </td>
   </tr>
