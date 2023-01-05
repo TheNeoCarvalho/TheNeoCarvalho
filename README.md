@@ -9,7 +9,7 @@
 
 ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
 
-<table>
+<table border="0">
   <tr>   
     <td>
      ### Dados do Github
