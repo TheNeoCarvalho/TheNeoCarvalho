@@ -5,7 +5,7 @@
 - 🔭 Atualmente, estudando bastante!
 - 🌱 Sempre aprendendo novas tecnologias 🤣
 - 👯 Tentando produzir algum conteúdo legal!
-- 🥅 Em 2024: pretendo participar de mais eventos e contribuir para a comunidade Open Source!
+- 🥅 Em 2025: pretendo participar de mais eventos e contribuir para a comunidade Open Source!
 
  ![coding](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)
 
@@ -21,10 +21,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
 
 ### Total de contribuições
 [![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
