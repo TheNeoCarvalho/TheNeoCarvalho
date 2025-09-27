@@ -2,8 +2,7 @@
 
 ### Sobre mim...
 - ⚡ Sou marido, pai, professor e programador nas horas vagas!
-- 🔭 Atualmente, estudando bastante!
-- 🌱 Sempre aprendendo novas tecnologias 🤣
+- 🔭 Sempre, estudando e aprendendo novas tecnologias!
 - 👯 Tentando produzir algum conteúdo legal!
 - 🥅 Em 2025: pretendo participar de mais eventos e contribuir para a comunidade Open Source!
 
